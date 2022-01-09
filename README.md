@@ -6,3 +6,13 @@ Desafio de projeto sobre Git/GitHub (Digital Innovation One)
 [Comandos do Git] (https://comandosgit.github.io/) 
 
 [emoji] (https://emojipedia.org/search/?q=bag)
+
+[selos] (https://dev.to/envoy_/150-badges-for-github-pnk)
+
+[Repositório do GitHub status] (https://github.com/anuraghazra/github-readme-stats)
+
+[VS Code] (https://code.visualstudio.com/docs/?dv=win64user)
+
+[Site Lipsum] (https://lipsum.com/)
+
+[Unsplash] (https://unsplash.com/)
