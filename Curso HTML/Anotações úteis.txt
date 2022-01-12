@@ -17,3 +17,5 @@ https://www.significados.com.br/html/
 ## Links úteis
 
 [Tags do HTML] (https://www.devmedia.com.br/comandos-e-tags-html5/23618)
+
+[Símbolos em HTML 5] (https://www.blogson.com.br/lista-de-simbolos-do-html-5/)
