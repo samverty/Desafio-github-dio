@@ -13,3 +13,7 @@ A linguagem HTML foi criada por **Tim Barners Lee** na década de 1990. As espec
 As versões de evolução da HTML incluem XHTML (uma linguagem com sintaxe mais rigorosa, baseada em XML) e HTML5 (quinta versão da HTML que traz novos recursos, principalmente a manipulação de conteúdo gráfico e multimídia).
 
 https://www.significados.com.br/html/
+
+## Links úteis
+
+[Tags do HTML] (https://www.devmedia.com.br/comandos-e-tags-html5/23618)
