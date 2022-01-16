@@ -19,3 +19,5 @@ https://www.significados.com.br/html/
 [Tags do HTML] (https://www.devmedia.com.br/comandos-e-tags-html5/23618)
 
 [Símbolos em HTML 5] (https://www.blogson.com.br/lista-de-simbolos-do-html-5/)
+
+[Site Mozilla para estudos] (https://developer.mozilla.org/pt-BR/)
