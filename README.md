@@ -19,3 +19,5 @@ CURSO HTML(HyperText Markup Language)
 [Site Lipsum] (https://lipsum.com/)
 
 [Unsplash] (https://unsplash.com/)
+
+[HTML Color Codes] (https://htmlcolorcodes.com/)
